@@ -1,7 +1,10 @@
 # Wal3fo Laravel Sentinel
 
-![Laravel](https://img.shields.io/badge/Laravel-10%20%E2%86%92%2013-red)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Packagist Version](https://img.shields.io/packagist/v/wal3fo/laravel-sentinel?style=flat-square&color=6ee7b7&labelColor=0d1117)](https://packagist.org/packages/wal3fo/laravel-sentinel)
+[![Total Downloads](https://img.shields.io/packagist/dt/wal3fo/laravel-sentinel?style=flat-square&color=818cf8&labelColor=0d1117)](https://packagist.org/packages/wal3fo/laravel-sentinel)
+[![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=flat-square&labelColor=0d1117)](https://php.net)
+[![Laravel](https://img.shields.io/badge/Laravel-10+-FF2D20?style=flat-square&labelColor=0d1117)](https://laravel.com)
+[![License](https://img.shields.io/packagist/l/wal3fo/laravel-sentinel?style=flat-square&color=fb923c&labelColor=0d1117)](LICENSE)
 
 Production-ready circuit breaker for Laravel queues and service calls, built to stop cascading failures with closed, open, and half-open states.
 
